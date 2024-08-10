@@ -1,2 +1,2 @@
 - 👋 Hi, we are OpenJobs!
-- 👀 We aim to provide the most convenient and effective job search experience powered by AI.
+- 👀 We aim to provide the most convenient and effective job search experience powered by AI. Job searching has never been that easy!
